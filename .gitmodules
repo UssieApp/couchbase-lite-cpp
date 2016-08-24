@@ -1,0 +1,3 @@
+[submodule "libcbforest"]
+    path = vendor/dbforest
+    url = https://github.com/couchbaselabs/cbforest
